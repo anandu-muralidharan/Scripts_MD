@@ -6,3 +6,11 @@ Here, I will be uploading scripts which I will be using to extract data from my 
    - The script will runa and output the (energy and temperature) wrt the timestep.
    - An example is given below -
    - ![image](https://github.com/user-attachments/assets/034876be-c65d-4fb5-ada8-fe4e7543644c)
+
+2. distance_between_atoms.py ---> Use this script to plot how the distance between two different atoms changes wrt timestep. Use data from XDATACR
+   - Change the index inside the code to which atoms you want to check (Check via XDATCAR file)
+   - Run the code
+   - Select the XDATCAR file
+   - The plot will be obtained
+   - An example is shown here -
+   - ![image](https://github.com/user-attachments/assets/30b30060-4811-4a98-914d-2790b9175bcf)
