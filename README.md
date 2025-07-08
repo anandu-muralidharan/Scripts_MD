@@ -14,3 +14,10 @@ Here, I will be uploading scripts which I will be using to extract data from my 
    - The plot will be obtained
    - An example is shown here -
    - ![image](https://github.com/user-attachments/assets/30b30060-4811-4a98-914d-2790b9175bcf)
+
+3. Combine_oszicar.py ---> Use this code to concat more OSZICAR files.
+   - First run the script.
+   - Input the number of OSZICAR files you have.
+   - Select the various OSZICAR files from the GUI pop up window.
+   - The combined OSZICAR can be saved in any location in .txt format.
+   
